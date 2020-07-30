@@ -1,0 +1,11 @@
+Download the serial version of the Mandelbrot Plotter from the PThreads Lab Exercise folder on Sakai..
+
+The Mandelbrot set is the set of all complex numbers where the function fc(z)=z2+c does not diverge when iterated from z=0.
+
+For the remainder of class work on implementing a parallel version of the provided serial one.
+
+You may work in groups of 2, if you would like.
+
+Measure the speedup and efficiency of your implementation vs. the provided serial one.
+
+When you are done you may leave but upload your implementation to Sakai
